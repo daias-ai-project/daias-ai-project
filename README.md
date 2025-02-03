@@ -50,7 +50,7 @@ By aligning incentives through token-based economics and prioritizing explainabi
 ## Architecture
 
 A simplified high-level diagram:
-
+<details> <summary><strong>View Diagram</strong></summary>
 ┌──────────────────────┐       ┌──────────────────────────────┐
 │    User Devices      │       │   Decentralized AI Network   │
 │ (IoT / AR / Mobile)  │  ---> │  Proof-of-Compute (PoC)      │
@@ -70,7 +70,7 @@ A simplified high-level diagram:
                                │  Decentralized Storage       │
                                │  (IPFS, Filecoin, etc.)      │
                                └──────────────────────────────┘
-
+</details>
 
 1. **User Devices** gather real-world data and train locally, respecting user privacy.  
 2. **Decentralized AI Network** processes tasks (e.g., training, inference) via Proof-of-Compute (PoC), redistributing rewards.  
