@@ -51,25 +51,25 @@ By aligning incentives through token-based economics and prioritizing explainabi
 
 A simplified high-level diagram:
 <details> <summary><strong>View Diagram</strong></summary>
-┌──────────────────────┐       ┌──────────────────────────────┐
-│    User Devices      │       │   Decentralized AI Network   │
-│ (IoT / AR / Mobile)  │  ---> │  Proof-of-Compute (PoC)      │
-│   - Local Training   │       │  Validator Nodes             │
-└──────────────────────┘       │  Model Aggregation           │
-                               └──────────────────────────────┘
-                                         │
-                                         ▼
-                               ┌──────────────────────────────┐
-                               │       Blockchain Layer       │
-                               │     - On-chain Governance    │
-                               │     - Token & Rewards        │
-                               └──────────────────────────────┘
-                                         │
-                                         ▼
-                               ┌──────────────────────────────┐
-                               │  Decentralized Storage       │
-                               │  (IPFS, Filecoin, etc.)      │
-                               └──────────────────────────────┘
+-┌──────────────────────┐       ┌──────────────────────────────┐
+-│    User Devices      │       │   Decentralized AI Network   │
+-│ (IoT / AR / Mobile)  │  ---> │  Proof-of-Compute (PoC)      │
+-│   - Local Training   │       │  Validator Nodes             │
+-└──────────────────────┘       │  Model Aggregation           │
+-                               └──────────────────────────────┘
+-                                         │
+-                                         ▼
+-                               ┌──────────────────────────────┐
+-                               │       Blockchain Layer       │
+-                               │     - On-chain Governance    │
+-                               │     - Token & Rewards        │
+-                               └──────────────────────────────┘
+-                                         │
+-                                         ▼
+-                               ┌──────────────────────────────┐
+-                               │  Decentralized Storage       │
+-                               │  (IPFS, Filecoin, etc.)      │
+-                               └──────────────────────────────┘
 </details>
 
 1. **User Devices** gather real-world data and train locally, respecting user privacy.  
